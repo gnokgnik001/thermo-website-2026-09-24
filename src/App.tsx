@@ -189,12 +189,12 @@ type Lang = 'th' | 'en';
    ทำให้ Google เก็บเนื้อหาอังกฤษได้ด้วย ไม่ใช่เห็นแต่ไทย */
 const routeToPath = (page: PageName, id?: string | null, lang: Lang = 'th'): string => {
   const prefix = lang === 'en' ? '/en' : '';
-  if (page === 'services') return id ? `${prefix}/services/${id}/` : `${prefix}/services/`;
-  if (page === 'portfolio') return `${prefix}/portfolio/`;
-  if (page === 'knowledge') return `${prefix}/knowledge/`;
-  if (page === 'article') return id ? `${prefix}/knowledge/${id}/` : `${prefix}/knowledge/`;
-  if (page === 'careers') return `${prefix}/careers/`;
-  return prefix === '' ? '/' : prefix + '/';
+  if (page === 'services') return id ? `${prefix}/services/${id}` : `${prefix}/services`;
+  if (page === 'portfolio') return `${prefix}/portfolio`;
+  if (page === 'knowledge') return `${prefix}/knowledge`;
+  if (page === 'article') return id ? `${prefix}/knowledge/${id}` : `${prefix}/knowledge`;
+  if (page === 'careers') return `${prefix}/careers`;
+  return prefix === '' ? '/' : prefix;
 };
 
 const pathToRoute = (pathname: string): { page: PageName; id: string | null; lang: Lang } => {

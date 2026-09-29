@@ -78,22 +78,6 @@ function metaFor(page, id, lang) {
 }
 
 // ---- JSON-LD ต่อหน้า (สำหรับหน้าใน) ----
-// ดึง Q&A จากส่วน "คำถามที่พบบ่อย" ในบทความ เพื่อทำ FAQPage
-function extractFaq(md, lang) {
-  if (!md) return [];
-  const heading = lang === 'th' ? 'คำถามที่พบบ่อย' : 'Frequently Asked Questions';
-  const m = md.match(new RegExp('##\\s*' + heading + '([\\s\\S]*?)(?:\\n##\\s|$)'));
-  if (!m) return [];
-  const parts = m[1].split(/\n\*\*([^\n]+?)\*\*\n/);
-  const faqs = [];
-  for (let i = 1; i < parts.length; i += 2) {
-    const q = (parts[i] || '').trim();
-    const a = (parts[i + 1] || '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\s+/g, ' ').trim();
-    if (q && a) faqs.push({ q, a });
-  }
-  return faqs;
-}
-
 function jsonLdFor(page, id, lang, url, title) {
   const graph = [];
   graph.push({
@@ -103,22 +87,6 @@ function jsonLdFor(page, id, lang, url, title) {
     "url": SITE,
     "logo": { "@type": "ImageObject", "url": SITE + "/logo.png" }
   });
-  if (page === 'services') {
-    const svc = C.servicesData.find(s => s.id === id);
-    if (svc) {
-      const tl = C.translations[lang];
-      graph.push({
-        "@type": "Service",
-        "@id": url + "#service",
-        "name": tl[svc.titleKey],
-        "serviceType": tl[svc.titleKey],
-        "description": tl[svc.descKey],
-        "url": url,
-        "provider": { "@type": "Organization", "name": "THERMO Co., Ltd.", "url": SITE },
-        "areaServed": { "@type": "Country", "name": "Thailand" }
-      });
-    }
-  }
   if (page === 'article') {
     const art = C.articlesList.find(a => a.id === id);
     if (art) {
@@ -135,16 +103,6 @@ function jsonLdFor(page, id, lang, url, title) {
         "author": { "@type": "Organization", "name": "THERMO Co., Ltd.", "url": SITE },
         "publisher": { "@type": "Organization", "name": "THERMO Co., Ltd.", "logo": { "@type": "ImageObject", "url": SITE + "/logo.png" } }
       });
-      const _src = C.articles.find(a => a.id === id);
-      const _md = _src && _src.bodyMarkdown ? (lang === 'th' ? _src.bodyMarkdown.th : _src.bodyMarkdown.en) : '';
-      const _faqs = extractFaq(_md, lang);
-      if (_faqs.length) {
-        graph.push({
-          "@type": "FAQPage",
-          "@id": url + "#faq",
-          "mainEntity": _faqs.map(f => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } }))
-        });
-      }
     }
   }
   // breadcrumb
