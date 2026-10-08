@@ -245,7 +245,7 @@ export function ArticleDetail({ articleId, lang, onNavigate, onContactUs }: Arti
                     return (
                       <a
                         key={sv.id}
-                        href={`/services/${sv.id}`}
+                        href={`/services/${sv.id}/`}
                         onClick={(e) => { e.preventDefault(); onNavigate('services', sv.id); }}
                         className="w-full text-left group flex items-center justify-between gap-3 p-3.5 rounded-xl bg-brand-surface/40 hover:bg-brand-blue/5 border border-brand-blue/10 transition-colors cursor-pointer no-underline"
                       >
@@ -273,7 +273,7 @@ export function ArticleDetail({ articleId, lang, onNavigate, onContactUs }: Arti
                 return (
                   <a
                     key={relArt.id}
-                    href={`/knowledge/${relArt.id}`}
+                    href={`/knowledge/${relArt.id}/`}
                     onClick={(e) => {
                       e.preventDefault();
                       onNavigate('article', relArt.id);

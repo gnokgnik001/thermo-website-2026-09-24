@@ -1635,7 +1635,7 @@ export const articles = [
 
 **ถ้าพลาด:** เจอตอนจะเปิดเครื่องว่าไฟไม่พอ → ต้องรื้อแผน เดินไฟใหม่ หรือรอขยายเขตไฟ งานดีเลย์เป็นเดือนและบานปลาย
 
-**หน้างานจริง:** อ่านเจาะลึกเรื่องนี้ได้ในบทความ [ทำไมห้องเย็นต้องใช้ไฟ 380V 3 เฟส](/knowledge/power-3phase)
+**หน้างานจริง:** อ่านเจาะลึกเรื่องนี้ได้ในบทความ [ทำไมห้องเย็นต้องใช้ไฟ 380V 3 เฟส](/knowledge/power-3phase/)
 
 ### 5. ทีมงานและการดูแลหลังการขาย
 
@@ -1647,7 +1647,7 @@ export const articles = [
 
 **ถ้าพลาด:** ได้ห้องราคาถูกจากเจ้าที่หายไปหลังติดตั้งเสร็จ → เครื่องมีปัญหากลางดึกแล้วไม่มีคนรับสาย ของเต็มห้องกำลังเสีย
 
-**หน้างานจริง:** อ่านต่อว่าการ PM ที่ "ได้จริง" ต่างจากที่ "เคลมว่ามี" อย่างไรในบทความ [PM ระบบทำความเย็น ควรตรวจอะไรบ้าง](/knowledge/preventive-maintenance)
+**หน้างานจริง:** อ่านต่อว่าการ PM ที่ "ได้จริง" ต่างจากที่ "เคลมว่ามี" อย่างไรในบทความ [PM ระบบทำความเย็น ควรตรวจอะไรบ้าง](/knowledge/preventive-maintenance/)
 
 ## ตารางอ้างอิงสเปก
 
@@ -1747,21 +1747,21 @@ export const articles = [
 ที่อุณหภูมิเดียวกัน PU (และ PIR) ใช้ความหนาประมาณครึ่งเดียวของ PS จึงประหยัดพื้นที่ผนังและเก็บความเย็นได้ดีกว่าต่อความหนา
 
 **ห้องเย็นแบบไหนต้องขอ ร.ง.4?**
-ขึ้นกับกำลังเครื่องจักรรวมและลักษณะการเข้าข่ายเป็นโรงงานตามกฎหมาย ห้องเย็นเชิงอุตสาหกรรมหลายกรณีเข้าข่ายต้องขออนุญาต อ่านรายละเอียดได้ในบทความ [ห้องเย็นแบบไหนต้องขอ ร.ง.4](/knowledge/rg4-license)
+ขึ้นกับกำลังเครื่องจักรรวมและลักษณะการเข้าข่ายเป็นโรงงานตามกฎหมาย ห้องเย็นเชิงอุตสาหกรรมหลายกรณีเข้าข่ายต้องขออนุญาต อ่านรายละเอียดได้ในบทความ [ห้องเย็นแบบไหนต้องขอ ร.ง.4](/knowledge/rg4-license/)
 
 **สร้างห้องเย็นใช้เวลานานไหม?**
 ขึ้นกับขนาดและความซับซ้อนของงาน ตั้งแต่ประมาณ 30 วันสำหรับงานเล็ก ไปจนถึงราว 180 วันสำหรับงานใหญ่ที่ซับซ้อน จุดที่เราภูมิใจคือตลอดที่ผ่านมา THERMO ยังไม่เคยส่งมอบงานล่าช้าเลยสักโครงการ แม้แต่งานเร่งด่วน
 
 **ต้องดูแลรักษาบ่อยแค่ไหน?**
-ห้องเย็นทำงาน 24 ชั่วโมง ควรมี PM สม่ำเสมอเพื่อคุมค่าไฟและยืดอายุระบบ อ่านต่อในบทความ [PM ระบบทำความเย็น ควรตรวจอะไรบ้าง](/knowledge/preventive-maintenance)
+ห้องเย็นทำงาน 24 ชั่วโมง ควรมี PM สม่ำเสมอเพื่อคุมค่าไฟและยืดอายุระบบ อ่านต่อในบทความ [PM ระบบทำความเย็น ควรตรวจอะไรบ้าง](/knowledge/preventive-maintenance/)
 
 ## บทความที่เกี่ยวข้อง
 
-- [ห้องเย็นแบบไหนต้องขอ ร.ง.4](/knowledge/rg4-license)
-- [ทำไมห้องเย็นต้องใช้ไฟ 380V 3 เฟส](/knowledge/power-3phase)
-- [ห้องเย็นมีกี่ประเภท และคุณต้องการแบบไหน](/knowledge/coldroom-types)
-- [ออกแบบห้องเย็นให้ผ่าน อย. และ GMP](/knowledge/gmp-fda-coldroom)
-- [PM ระบบทำความเย็น ควรตรวจอะไรบ้าง](/knowledge/preventive-maintenance)`,
+- [ห้องเย็นแบบไหนต้องขอ ร.ง.4](/knowledge/rg4-license/)
+- [ทำไมห้องเย็นต้องใช้ไฟ 380V 3 เฟส](/knowledge/power-3phase/)
+- [ห้องเย็นมีกี่ประเภท และคุณต้องการแบบไหน](/knowledge/coldroom-types/)
+- [ออกแบบห้องเย็นให้ผ่าน อย. และ GMP](/knowledge/gmp-fda-coldroom/)
+- [PM ระบบทำความเย็น ควรตรวจอะไรบ้าง](/knowledge/preventive-maintenance/)`,
       en: `Most people open a cold room conversation with a single question: "How much does a cold room cost?"
 
 We get it — it's the easiest question to ask. But it's the wrong one to ask first, because the price of a cold room isn't a starting point you choose. It's the **result** of five decisions made before it. Get these five right and the price settles into place. Get them wrong, and even if you push the quote down, you pay it back later in electricity, repairs, and spoiled product.
@@ -1816,7 +1816,7 @@ This article isn't the usual "what to prepare" checklist. It shows where each de
 
 **If you get it wrong:** Discover at start-up that power is insufficient → replan, rewire, or wait for a supply upgrade — delaying the job by months and blowing the budget.
 
-**From the field:** Read the deep dive in [Why Cold Rooms Need 380V Three-Phase Power](/knowledge/power-3phase).
+**From the field:** Read the deep dive in [Why Cold Rooms Need 380V Three-Phase Power](/knowledge/power-3phase/).
 
 ### 5. The Team and After-Sales Care
 
@@ -1828,7 +1828,7 @@ This article isn't the usual "what to prepare" checklist. It shows where each de
 
 **If you get it wrong:** A cheap room from a vendor who vanishes after installation → the equipment fails at 2 a.m. and no one answers, with a full room of product on the line.
 
-**From the field:** Read how PM that's "actually delivered" differs from PM that's merely "claimed" in [What a Refrigeration PM Should Actually Check](/knowledge/preventive-maintenance).
+**From the field:** Read how PM that's "actually delivered" differs from PM that's merely "claimed" in [What a Refrigeration PM Should Actually Check](/knowledge/preventive-maintenance/).
 
 ## Specification Reference Tables
 
@@ -1928,21 +1928,21 @@ It depends on temperature and insulation type. For example, a −25 °C freezer 
 At the same temperature, PU (and PIR) need about half the thickness of PS, saving wall space and insulating better per unit of thickness.
 
 **Which cold rooms need a factory licence (Ror.Ngor.4)?**
-It depends on total equipment power and whether the operation qualifies as a factory under the law; many industrial cold rooms do require a licence. Read the details in [Which Cold Rooms Need a Ror.Ngor.4 Licence](/knowledge/rg4-license).
+It depends on total equipment power and whether the operation qualifies as a factory under the law; many industrial cold rooms do require a licence. Read the details in [Which Cold Rooms Need a Ror.Ngor.4 Licence](/knowledge/rg4-license/).
 
 **How long does it take to build a cold room?**
 It depends on the size and complexity of the job — from around 30 days for small jobs to about 180 days for large, complex ones. What we're proud of: across everything we've done, THERMO has never delivered a project late — not even the rush jobs.
 
 **How often does it need maintenance?**
-A cold room runs 24 hours a day, so it needs regular PM to control electricity cost and extend system life. Read more in [What a Refrigeration PM Should Actually Check](/knowledge/preventive-maintenance).
+A cold room runs 24 hours a day, so it needs regular PM to control electricity cost and extend system life. Read more in [What a Refrigeration PM Should Actually Check](/knowledge/preventive-maintenance/).
 
 ## Related Articles
 
-- [Which Cold Rooms Need a Ror.Ngor.4 Licence](/knowledge/rg4-license)
-- [Why Cold Rooms Need 380V Three-Phase Power](/knowledge/power-3phase)
-- [How Many Types of Cold Room Are There, and Which One Do You Need](/knowledge/coldroom-types)
-- [Designing a Cold Room to Pass FDA and GMP](/knowledge/gmp-fda-coldroom)
-- [What a Refrigeration PM Should Actually Check](/knowledge/preventive-maintenance)`
+- [Which Cold Rooms Need a Ror.Ngor.4 Licence](/knowledge/rg4-license/)
+- [Why Cold Rooms Need 380V Three-Phase Power](/knowledge/power-3phase/)
+- [How Many Types of Cold Room Are There, and Which One Do You Need](/knowledge/coldroom-types/)
+- [Designing a Cold Room to Pass FDA and GMP](/knowledge/gmp-fda-coldroom/)
+- [What a Refrigeration PM Should Actually Check](/knowledge/preventive-maintenance/)`
     },
     excerpt: {
       th: "ลูกค้าส่วนใหญ่เริ่มต้นด้วยคำถามว่า \"ห้องเย็นกี่บาท\" แต่คำถามที่ควรถามก่อนคือ 5 ข้อนี้ — เตรียมคำตอบไว้ แล้วคุณจะได้ห้องเย็นที่ตรงงานจริง ไม่ใช่ห้องที่ถูกที่สุด",
@@ -2343,7 +2343,7 @@ Cold Chain คือการควบคุมอุณหภูมิของ
 นี่คือหัวใจของครัวกลางที่ทำ Cook–Chill / Cook–Freeze ตู้หรือห้องเย็นทั่วไป **ไม่ได้ออกแบบมาให้รับอาหารร้อน** เพราะจะลดอุณหภูมิช้า อาหารค้างอยู่ในโซนอันตรายนาน และยังทำให้ของในห้องเย็นตัวอื่นอุ่นตามไปด้วย
 
 - **Blast Chiller:** ลดอุณหภูมิแกนกลางอาหารจาก +70°C ลงถึง +3°C ภายใน 90 นาที ตามแนวทางด้านสุขอนามัยอาหาร (อิงหลัก HACCP/Codex และแนวทางของ UK Department of Health) เพื่อพาอาหารผ่านโซนอันตรายให้เร็วที่สุด
-- **Blast Freezer:** ลดอุณหภูมิจาก +70°C ลงถึง −18°C ภายในราว 240 นาที (4 ชั่วโมง) โดยอุณหภูมิลมภายในห้องมักออกแบบไว้ที่ −35 ถึง −45°C เพื่อการแช่แข็งเร็ว (ดูเพิ่มเติมในบทความ [Blast Freezer](/knowledge/coldroom-types) ของเรา)
+- **Blast Freezer:** ลดอุณหภูมิจาก +70°C ลงถึง −18°C ภายในราว 240 นาที (4 ชั่วโมง) โดยอุณหภูมิลมภายในห้องมักออกแบบไว้ที่ −35 ถึง −45°C เพื่อการแช่แข็งเร็ว (ดูเพิ่มเติมในบทความ [Blast Freezer](/knowledge/coldroom-types/) ของเรา)
 
 ข้อดีที่มากกว่าความปลอดภัยคือ **คุณภาพ** — เมื่อลดอุณหภูมิเร็ว ผลึกน้ำแข็งที่เกิดในเนื้ออาหารจะเป็นผลึกเล็ก (micro-crystals) ไม่ทำลายโครงสร้างเซลล์ ต่างจากการแช่แข็งช้าในตู้ธรรมดาที่เกิดผลึกใหญ่คมเหมือนมีดเล็ก ๆ ทิ่มเนื้ออาหาร ทำให้เมื่อละลายแล้วเนื้อเละ ซอสแยกตัว และเสียน้ำ (มาตรฐานสหรัฐฯ FDA ใช้แนวการลดอุณหภูมิแบบ 2 ช่วง คือจากราว 57°C → 21°C ภายใน 2 ชม. แล้วลงถึง 5°C ภายในรวม 6 ชม. เป็นอีกกรอบอ้างอิงหนึ่ง)
 
@@ -2386,7 +2386,7 @@ Cold Chain คือการควบคุมอุณหภูมิของ
 - **Blast Chiller/Freezer ควรอยู่ต่อจากไลน์ปรุงทันที** เพราะทุกนาทีที่อาหารร้อนรออยู่คือเวลาในโซนอันตราย
 - **โซนแพ็ค High-care** ควรมีการควบคุมแรงดันอากาศเป็นบวก (Positive Pressure) เพื่อกันอากาศจากโซนสกปรกไหลเข้า
 - **ประตูและทางสัญจร:** ประตูห้องเย็นที่เปิด-ปิดบ่อยทำให้เย็นรั่วและเกิดน้ำแข็งเกาะ การใช้ประตูความเร็วสูง (Hi-Speed Door) ช่วยลดการสูญเสียความเย็นและคุมความชื้นบริเวณรอยต่อได้ดี
-- **ระบบมอนิเตอร์ริ่งอุณหภูมิ** ที่บันทึกและแจ้งเตือนต่อเนื่องคือหลักฐานว่า Cold Chain ไม่ขาดตอน และจำเป็นต่อการตรวจรับรองมาตรฐาน — ดูบริการ [ระบบมอนิเตอร์ริ่งห้องเย็น](/services/monitoring) ของเรา
+- **ระบบมอนิเตอร์ริ่งอุณหภูมิ** ที่บันทึกและแจ้งเตือนต่อเนื่องคือหลักฐานว่า Cold Chain ไม่ขาดตอน และจำเป็นต่อการตรวจรับรองมาตรฐาน — ดูบริการ [ระบบมอนิเตอร์ริ่งห้องเย็น](/services/monitoring/) ของเรา
 
 ## มาตรฐานที่เกี่ยวข้องกับครัวกลาง
 
@@ -2397,7 +2397,7 @@ Cold Chain คือการควบคุมอุณหภูมิของ
 - **ISO 22000** — ระบบบริหารความปลอดภัยอาหารที่รวม HACCP + GMP เข้ากับการบริหารคุณภาพ เหมาะกับครัวกลางตั้งแต่ขนาดเล็กถึงระดับอุตสาหกรรม
 - **หน่วยงานไทย:** อย. (สำนักงานคณะกรรมการอาหารและยา) และ มกอช. (สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ)
 
-ในเชิงงานก่อสร้าง แผ่นฉนวนสำเร็จรูป (Sandwich Panel) แบบ PU/PIR ที่ผิวเรียบ ทำความสะอาดง่าย และมีค่านำความร้อนต่ำ คือมาตรฐานที่ใช้กันในห้องเย็น/ไลน์ผลิตอาหารที่ต้องรองรับ GMP/HACCP หากต้องการเจาะลึกการเลือกฉนวนและการควบคุมต้นทุน อ่านต่อได้ที่บทความ [ก่อนสร้างห้องเย็น: 5 การตัดสินใจที่ชี้ว่าคุ้มหรือไม่คุ้ม (ฉบับวิศวกร)](/knowledge/coldroom-checklist)
+ในเชิงงานก่อสร้าง แผ่นฉนวนสำเร็จรูป (Sandwich Panel) แบบ PU/PIR ที่ผิวเรียบ ทำความสะอาดง่าย และมีค่านำความร้อนต่ำ คือมาตรฐานที่ใช้กันในห้องเย็น/ไลน์ผลิตอาหารที่ต้องรองรับ GMP/HACCP หากต้องการเจาะลึกการเลือกฉนวนและการควบคุมต้นทุน อ่านต่อได้ที่บทความ [ก่อนสร้างห้องเย็น: 5 การตัดสินใจที่ชี้ว่าคุ้มหรือไม่คุ้ม (ฉบับวิศวกร)](/knowledge/coldroom-checklist/)
 
 ## เช็กลิสต์ก่อนวางระบบความเย็นในครัวกลาง
 
@@ -2469,7 +2469,7 @@ The most basic job: "stopping the clock" for ingredients and semi-finished goods
 This is the heart of any Cook–Chill / Cook–Freeze central kitchen. Ordinary cold rooms are **not designed to receive hot food** — they cool too slowly, leaving food in the danger zone and warming everything else inside.
 
 - **Blast Chiller:** drops the food's core temperature from +70°C to +3°C within 90 minutes, following food-hygiene guidance (HACCP/Codex principles and UK Department of Health guidelines), moving food through the danger zone fast.
-- **Blast Freezer:** drops from +70°C to −18°C within about 240 minutes (4 hours), with in-room air often designed at −35 to −45°C for rapid freezing (see our [Blast Freezer](/knowledge/coldroom-types) article).
+- **Blast Freezer:** drops from +70°C to −18°C within about 240 minutes (4 hours), with in-room air often designed at −35 to −45°C for rapid freezing (see our [Blast Freezer](/knowledge/coldroom-types/) article).
 
 Beyond safety, the real benefit is **quality**: fast cooling forms tiny micro-crystals that leave the cell structure intact — unlike slow freezing in a standard unit, where large jagged ice crystals tear the food, leaving it mushy, split and watery after thawing. (The U.S. FDA Food Code uses a two-stage cooling frame — roughly 57°C → 21°C within 2 hours, then to 5°C within 6 hours total — as another reference.)
 
@@ -2512,7 +2512,7 @@ Where cold placement matters to the flow:
 - **Blast chillers/freezers should sit right after the cook line** — every minute hot food waits is time in the danger zone.
 - **High-care pack zones** should run positive air pressure to keep air from dirty zones out.
 - **Doors and traffic:** frequently opened cold room doors lose cold and build up ice. A Hi-Speed Door reduces cold loss and controls humidity at the threshold.
-- **Temperature monitoring** that logs and alerts continuously is the evidence your cold chain never broke — and is essential for certification. See our [cold room monitoring systems](/services/monitoring).
+- **Temperature monitoring** that logs and alerts continuously is the evidence your cold chain never broke — and is essential for certification. See our [cold room monitoring systems](/services/monitoring/).
 
 ## Relevant Standards for Central Kitchens
 
@@ -2523,7 +2523,7 @@ Cold system design isn't only about temperature — it must support the quality 
 - **ISO 22000** — a food safety management system combining HACCP + GMP with quality management, suited to central kitchens from small to industrial scale.
 - **Thai authorities:** Thai FDA (อย.) and ACFS (มกอช.).
 
-On the construction side, PU/PIR sandwich panels — smooth, easy to clean, low thermal conductivity — are the standard for GMP/HACCP-compliant cold rooms and food production lines. For a deeper look at insulation choice and cost control, read [Before You Build a Cold Room: 5 Decisions That Decide Whether It Pays Off (Engineer's Edition)](/knowledge/coldroom-checklist).
+On the construction side, PU/PIR sandwich panels — smooth, easy to clean, low thermal conductivity — are the standard for GMP/HACCP-compliant cold rooms and food production lines. For a deeper look at insulation choice and cost control, read [Before You Build a Cold Room: 5 Decisions That Decide Whether It Pays Off (Engineer's Edition)](/knowledge/coldroom-checklist/).
 
 ## Checklist Before Specifying Your Cold System
 
@@ -2827,7 +2827,7 @@ A good refrigeration system is not one that reaches a set point. It is one desig
 
 Temperature is easy to check and is usually the only thing in the specification. Humidity is what nobody writes into the contract — and what quietly eats the margin every single day.
 
-## Frequently asked questions
+## Frequently Asked Questions
 
 **What relative humidity should a cold room have?**
 It depends on the product. Leafy greens need 95 to 100%, most fruit and meat 85 to 95%, sealed packaged goods are fine at 80 to 85%, and onions and garlic need only 65 to 70%. No single figure suits everything.
@@ -2866,6 +2866,688 @@ Much less for the product itself, but it still affects the packaging (cardboard 
     },
     datePublishedISO: "2026-09-22",
     dateModifiedISO: "2026-09-22"
+  },
+  {
+    id: "coldroom-vs-reefer",
+    title: {
+      th: "ห้องเย็น Modular vs ตู้ Reefer: เทียบกันทีละบรรทัด ก่อนเซ็นใบสั่งซื้อ",
+      en: "Modular Cold Room vs Reefer Container: A Line-by-Line Comparison Before You Sign"
+    },
+    date: {
+      th: "29 ก.ย. 2569",
+      en: "September 29, 2026"
+    },
+    category: {
+      th: "ครัวกลาง & Catering",
+      en: "Central Kitchen & Catering"
+    },
+    image: "article-coldroom-vs-reefer.jpg",
+    bodyMarkdown: {
+      th: `คำถามนี้มาถึงเราแทบทุกเดือน: ครัวกลางกำลังจะขยาย ต้องการห้องแช่แข็งเพิ่มสักห้อง ระหว่างสร้างห้องเย็นแบบ Modular กับซื้อตู้คอนเทนเนอร์ห้องเย็น (Reefer) มือสองมาตั้ง อันไหนคุ้มกว่า
+
+คำตอบตรงๆ คือ **ขึ้นอยู่กับว่าคุณจะอยู่ที่นี่อีกกี่ปี** และบทความนี้จะพาดูว่าทำไม
+
+ทุกตัวเลขข้างล่างเทียบบนฐานเดียวกัน: ขนาดใกล้เคียงตู้ 20 ฟุต (ปริมาตรประมาณ 28 ลบ.ม.) สภาวะแช่แข็ง -20°C ใช้งานในไทย
+
+## เทียบกันทีละบรรทัด
+
+### 1. ผนังและฉนวน
+
+| หัวข้อ | ห้องเย็น Modular | ตู้ Reefer |
+|---|---|---|
+| ชนิดฉนวน | PIR หรือ PU เลือกเกรดได้ | PU ฉีดในผนังเหล็ก ติดมากับตู้ |
+| ความหนา | 100 ถึง 150 มม. เลือกตามอุณหภูมิใช้งาน | ราว 70 ถึง 100 มม. ปรับไม่ได้ |
+| ความหนาแน่น | 40 ถึง 42 kg/m³ คงที่ทั้งแผง | ปานกลาง ตู้มือสองอาจเสื่อมแล้ว |
+| สะพานความร้อน | น้อย แผงล็อกชิดกัน ไม่มีโครงเหล็กทะลุ | มาก ความร้อนเดินผ่านเสาและขอบประตูเหล็ก |
+
+จุดที่คนมองข้ามคือ **ฉนวนของตู้มือสองไม่ได้อยู่ในสภาพเดียวกับตอนออกจากโรงงาน** ตู้ที่ผ่านงานทะเลมาสิบปี ฉนวนมักดูดความชื้นไปแล้วบางส่วน ซึ่งมองจากข้างนอกไม่เห็น แต่แสดงตัวออกมาเป็นค่าไฟที่สูงกว่าที่ควร และจุดที่ผนังเย็นผิดปกติเวลาจับ
+
+### 2. ค่าไฟ
+
+ตัวเลขนี้คือตัวที่เปลี่ยนคำตอบทั้งหมด
+
+| | ห้องเย็น Modular | ตู้ Reefer |
+|---|---|---|
+| การใช้ไฟที่ -20°C | ฐานอ้างอิง | **ราว 1.9 ถึง 2.2 เท่า** |
+| ค่าไฟต่อเดือน | ฐานอ้างอิง | สูงกว่าราว 90 ถึง 120% |
+
+พูดง่ายๆ คือ **ตู้ Reefer กินไฟประมาณสองเท่าของห้องเย็น Modular ที่เก็บของปริมาณเท่ากัน**
+
+ตัวเลขฝั่ง Reefer อ้างอิงจากข้อมูลผู้ให้บริการตู้ห้องเย็นที่ระบุว่าตู้จอดนิ่งกินไฟราว 3 ถึง 5 กิโลวัตต์ต่อชั่วโมง คิดเป็น 70 ถึง 120 หน่วยต่อวันสำหรับตู้ 20 ฟุต ([Coldroom-China](https://www.coldroom-china.com/reefer-containers-power-consumption-per-hour/), [Climatight Containers](https://www.climatightcontainers.com.au/blog/reefer-container-power-consumption/)) ส่วนงานวิจัยด้านการขนส่งทางทะเลระบุช่วงกำลังไฟ 4.42 ถึง 8.63 กิโลวัตต์ ขึ้นกับอุณหภูมิที่ตั้ง ([Cold Chain SA อ้างอิง ScienceDirect](https://coldchainsa.com/reefer-containers-in-south-africa-the-complete-operators-guide/))
+
+ตัวเลขฝั่ง Modular เป็นค่าประมาณการทางวิศวกรรมจากการคำนวณโหลดห้องขนาดเดียวกัน ที่ค่า TD และ COP ตามสเปกที่เราใช้ออกแบบจริง
+
+สาเหตุที่ต่างกันขนาดนี้มีสามข้อ: ฉนวนบางกว่า สะพานความร้อนจากโครงเหล็กมากกว่า และคอมเพรสเซอร์เป็นชุดสำเร็จที่เลือกขนาดให้พอดีกับงานไม่ได้
+
+**อยากรู้ตัวเลขจริงของห้องคุณ** เอากำลังไฟของเครื่อง คูณชั่วโมงที่เดินต่อวัน คูณอัตราค่าไฟที่บิลคุณจ่ายจริง แล้วเทียบสองฝั่งด้วยสมมติฐานเดียวกัน อัตราส่วนจะออกมาใกล้เคียงกับตารางข้างบน ไม่ว่าค่าไฟต่อหน่วยจะขยับไปเท่าไหร่
+
+### 3. การใช้งานจริงและสุขอนามัย
+
+| หัวข้อ | ห้องเย็น Modular | ตู้ Reefer |
+|---|---|---|
+| ผิวผนังด้านใน | สแตนเลสหรือ Color Bond เกรดอาหาร รอยต่อชิด | เหล็กลอน มีรอยเชื่อม เสี่ยงสนิม |
+| พื้น | ทำเรียบเสมอพื้นครัวได้ ล้างง่าย | พื้น T-Bar อะลูมิเนียม มีร่องตลอดแนว |
+| เข็นรถเข็น | เข้าออกระดับเดียวกับอาคาร | ต้องทำทางลาดขึ้นราว 1.1 เมตร |
+| ความสูงใช้งาน | สั่งได้ 2.8 ถึง 4.5 เมตร | เพดาน 2.20 ถึง 2.27 เมตร และวางของได้ต่ำกว่านั้น |
+| ระบบไฟที่ต้องมี | ออกแบบตามไฟที่อาคารมี | ต้องมีไฟ 3 เฟส 380 ถึง 460V |
+
+ขนาดภายในตู้ 20 ฟุตมาตรฐานคือ ยาว 5.43 ถึง 5.46 ม. กว้าง 2.28 ถึง 2.29 ม. สูง 2.20 ถึง 2.27 ม. ปริมาตร 26 ถึง 28.5 ลบ.ม. พื้นเป็น T-Floor อะลูมิเนียม และต้องต่อไฟสามเฟส ([Alconet](https://www.alconet-containers.com/?p=1017), [SeaRates](https://www.searates.com/reference/container/20-foot-refrigerated/))
+
+**เรื่องความสูงมีกับดักอยู่** ตู้ Reefer ออกแบบให้ลมเย็นวิ่งขึ้นจากร่องพื้น T-Floor แล้ววนกลับเข้าเครื่องใต้เพดาน แปลว่าวางของสูงชนเพดานไม่ได้ ต้องเว้นช่องลมกลับไว้ และห้ามวางของปิดร่องพื้นจนสนิท ความสูงที่ใช้วางของจริงจึงเหลือน้อยกว่า 2.2 เมตรพอสมควร เทียบกับห้อง Modular สูง 3 เมตรที่ตั้งชั้นได้ 3 ถึง 4 ชั้นเต็มๆ
+
+**เรื่องพื้น T-Bar เป็นปัญหาตอนตรวจ GMP** ประกาศกระทรวงสาธารณสุข ฉบับที่ 420 พ.ศ. 2563 กำหนดเรื่องสถานที่ผลิต การทำความสะอาด และการบำรุงรักษาไว้เป็นหมวดแรกของข้อกำหนด ([คู่มือตรวจประเมิน GMP 420 โดย อย.](https://www.bsigroup.com/globalassets/localfiles/en-th/gmp-fda/-audit-manual-gmp-420.pdf)) ร่องพื้นอะลูมิเนียมที่น้ำขังและล้างไม่ถึง กับผนังเหล็กที่เกิดหยดน้ำแล้วขึ้นสนิม เป็นสองจุดที่ผู้ตรวจจับได้ง่ายที่สุด รายละเอียดเรื่องนี้เราเขียนไว้แยกใน [บทความเรื่องห้องเย็นกับมาตรฐาน GMP และ อย.](/knowledge/gmp-fda-coldroom/)
+
+### 4. งบประมาณและการดูแล
+
+| หัวข้อ | ห้องเย็น Modular | ตู้ Reefer มือสอง |
+|---|---|---|
+| ลงทุนแรกเริ่ม | สูงกว่า | **ถูกกว่าชัดเจน** |
+| ค่าซ่อมบำรุง | ช่างห้องเย็นทั่วไปดูแลได้ อะไหล่หาง่าย | ต้องใช้ช่างเฉพาะทางตู้ Reefer |
+| อายุที่เหลือตอนซื้อ | ใหม่ทั้งหมด | **ตู้ ex-marine ส่วนใหญ่อายุ 10 ถึง 15 ปีแล้ว** |
+| ขยาย/ย้าย | ต่อขยายได้ ถอดไปประกอบใหม่ได้ | ยกย้ายด้วยเครนง่ายมาก แต่ขยายไม่ได้ |
+
+**เรื่องอายุใช้งานมีข้อมูลที่ควรรู้ก่อนซื้อ** ตู้ Reefer มักถูกปลดจากเส้นทางเดินเรือหลักหลังใช้งาน 10 ถึง 12 ปี ([CHS Container Group](https://chs-containergroup.com/us/refrigerated-shipping-container-experts-answer-common-questions/)) และแม้ตัวโครงสร้างเหล็กจะอยู่ได้ 15 ถึง 20 ปี แต่ชุดทำความเย็นมักเริ่มไม่น่าไว้ใจหลังผ่าน 12 ถึง 15 ปี ([SOGESE](https://www.sogeseitalia.it/en/articles/insights/what-is-the-lifespan-of-a-container-so-ge-se-answers/)) ตู้ ex-marine ที่ขายในตลาดมือสองส่วนใหญ่จึงมีอายุ 10 ถึง 15 ปีแล้วตั้งแต่วันที่คุณได้มา และส่วนที่หมดอายุก่อนคือเครื่อง ไม่ใช่เปลือก ([Bosh Boxes](https://boshboxes.store/how-long-do-refrigerated-containers-last/))
+
+พูดอีกอย่างคือ เปลือกตู้ที่ดูแข็งแรงดีนั้นไม่ใช่สิ่งที่คุณกำลังซื้อ สิ่งที่คุณกำลังซื้อคือชุดทำความเย็นที่ใช้อายุขัยไปแล้วเกือบหมด
+
+เรื่องช่างเป็นประเด็นที่มักไม่มีใครคิดถึงตอนซื้อ เครื่องทำความเย็นบนตู้ Reefer เป็นของ Carrier, Thermo King, Daikin หรือ Starcool ซึ่งเป็นสายอุปกรณ์เดินเรือ ไม่ใช่สายห้องเย็นอุตสาหกรรมทั่วไป เวลาเสียขึ้นมาในต่างจังหวัด การหาช่างที่ซ่อมเป็นและมีอะไหล่ในมือ อาจใช้เวลาเป็นสัปดาห์ ซึ่งสำหรับครัวกลางที่มีของเต็มห้อง นั่นแพงกว่าค่าซ่อมมาก
+
+## หาจุดคืนทุนของคุณเอง
+
+เราไม่บอกว่าจุดคืนทุนอยู่ปีไหน เพราะมันขึ้นกับราคาที่คุณได้จริงและค่าไฟที่คุณจ่ายจริง แต่เราให้สูตรไปคำนวณเองได้
+
+เนื่องจากตู้ Reefer กินไฟราวสองเท่า **ค่าไฟส่วนเกินต่อปีจึงมีค่าประมาณเท่ากับค่าไฟทั้งปีของห้องเย็น Modular** ซึ่งทำให้สูตรง่ายมาก
+
+> **จุดคืนทุน (ปี) = ส่วนต่างราคาซื้อ ÷ ค่าไฟของห้อง Modular ต่อปี**
+
+ตัวอย่างการอ่านผล:
+
+| ถ้าส่วนต่างราคาซื้อเท่ากับ | จุดคืนทุนอยู่ราวปีที่ |
+|---|---|
+| ค่าไฟ 2 ปีของห้อง Modular | 2 |
+| ค่าไฟ 3 ปีของห้อง Modular | 3 |
+| ค่าไฟ 5 ปีของห้อง Modular | 5 |
+
+**วิธีหาตัวเลขสองตัวนี้:** ส่วนต่างราคาซื้อ ให้ขอใบเสนอราคาทั้งสองแบบบนสเปกเดียวกัน คือปริมาตรเท่ากัน อุณหภูมิเท่ากัน แล้วลบกัน ส่วนค่าไฟของห้อง Modular ต่อปี ให้ผู้ออกแบบระบุกำลังไฟและชั่วโมงเดินโดยประมาณมาในใบเสนอราคา แล้วคูณกับอัตราค่าไฟในบิลของคุณ
+
+หลังจุดคืนทุน ค่าไฟส่วนเกินไม่ได้หยุด มันเดินต่อทุกปีตลอดอายุการใช้งาน และยังไม่ได้รวมค่าซ่อมที่แพงกว่า อายุเครื่องที่เหลือน้อยกว่า และค่าเสียโอกาสตอนเครื่องเสียแล้วหาช่างไม่ได้
+
+คำถามแรกที่เราถามลูกค้าจึงไม่ใช่ "งบเท่าไหร่" แต่เป็น **"ครัวนี้จะอยู่ที่นี่อีกกี่ปี"** ถ้าจำนวนปีนั้นมากกว่าจุดคืนทุนที่คำนวณได้ ตัวเลขจะเข้าข้าง Modular เองโดยไม่ต้องขาย ถ้าน้อยกว่า ตู้ Reefer คือคำตอบที่ถูกต้อง และเราก็จะบอกแบบนั้น
+
+## 6 คำถามที่ตอบแล้วรู้เลย
+
+| คำถาม | ถ้าตอบแบบนี้ → เลือก Modular | ถ้าตอบแบบนี้ → เลือก Reefer |
+|---|---|---|
+| จะใช้ที่นี่กี่ปี | เกิน 4 ปี | ต่ำกว่า 3 ปี |
+| ต้องขอ อย. หรือ GMP ไหม | ต้องขอ | ไม่ต้อง |
+| มีไฟ 3 เฟส 380V แล้วหรือยัง | ยังไม่มี หรือไม่อยากลงทุนเพิ่ม | มีอยู่แล้ว |
+| ใช้รถเข็นเข้าออกบ่อยแค่ไหน | ทั้งวัน | นานๆ ครั้ง |
+| ต้องวางของสูงกี่ชั้น | 3 ชั้นขึ้นไป | 1 ถึง 2 ชั้น |
+| มีโอกาสต้องขยายห้องไหม | มี | ไม่มี |
+
+ตอบเอียงไปทางซ้ายเกินครึ่ง แปลว่า Modular คุ้มกว่าชัดเจน ตอบเอียงไปทางขวาเกินครึ่ง อย่าฝืน ตู้ Reefer คือคำตอบที่ถูกสำหรับคุณ
+
+## สรุป
+
+ตู้ Reefer ไม่ใช่ของแย่ มันเป็นเครื่องมือที่ถูกออกแบบมาเพื่ออย่างหนึ่ง คือ **เก็บของแช่เย็นในตู้ปิดสนิทระหว่างเดินทาง** ซึ่งมันทำได้ดีมาก
+
+ปัญหาเกิดตอนที่เราเอามันมาใช้ทำอีกอย่างหนึ่ง คือเป็นห้องเย็นประจำที่ที่มีคนเดินเข้าออกวันละหลายสิบรอบ ต้องล้างทุกวัน และต้องผ่านการตรวจ อย. ซึ่งเป็นงานที่มันไม่ได้ถูกออกแบบมาเพื่อสิ่งนั้น
+
+เลือกเครื่องมือให้ตรงกับงาน แล้วตัวเลขจะเข้าข้างคุณเอง
+
+## คำถามที่พบบ่อย
+
+**ตู้คอนเทนเนอร์ห้องเย็นขอ อย. หรือ GMP ผ่านไหม**
+ไม่ได้ห้าม แต่ผ่านยากกว่ามาก จุดที่มักไม่ผ่านคือร่องพื้น T-Bar ที่ล้างไม่ถึงและมีน้ำขัง กับผนังเหล็กที่เกิดสนิมจากหยดน้ำ ถ้าจะใช้จริงต้องลงทุนปูพื้นและบุผนังใหม่ ซึ่งพอรวมค่าแก้แล้วส่วนต่างราคาจะหดลงไปมาก
+
+**ตู้ Reefer กินไฟมากกว่าห้องเย็นกี่เท่า**
+ราวสองเท่า ข้อมูลผู้ให้บริการระบุว่าตู้ 20 ฟุตจอดนิ่งกินราว 70 ถึง 120 หน่วยต่อวัน ขณะที่ห้องเย็น Modular ขนาดใกล้เคียงกันอยู่ราว 35 ถึง 50 หน่วยต่อวัน สาเหตุหลักคือฉนวนบางกว่า สะพานความร้อนจากโครงเหล็กมากกว่า และคอมเพรสเซอร์เป็นชุดสำเร็จที่เลือกขนาดให้พอดีกับงานไม่ได้
+
+**ซื้อตู้ Reefer มือสองต้องดูอะไรเป็นพิเศษ**
+ดูสภาพฉนวนเป็นอันดับแรก กดผนังดูว่ามีจุดนิ่มหรือบวมไหม ซึ่งแปลว่าฉนวนดูดน้ำแล้ว ขอดูผล PTI (Pre-Trip Inspection) ล่าสุด เช็คว่าเครื่องเป็นรุ่นที่ยังมีอะไหล่ขาย และถามให้ชัดว่ามีช่างในพื้นที่ที่ซ่อมรุ่นนี้ได้กี่เจ้า
+
+**มีไฟ 3 เฟสแล้ว แต่เป็น 380V จะใช้ตู้ Reefer ได้ไหม**
+ส่วนใหญ่ได้ เพราะตู้ออกแบบมาใช้ช่วง 380 ถึง 460V แต่ต้องตรวจขนาดเบรกเกอร์และสายเมนให้รองรับกระแสตอนสตาร์ท ถ้าอาคารยังไม่มีไฟ 3 เฟส ค่าขอไฟเพิ่มจะกินส่วนต่างราคาที่ประหยัดได้ไปพอสมควร
+
+**ห้องเย็น Modular ย้ายที่ได้จริงไหม**
+ได้ แผงผนังถอดประกอบใหม่ได้ และเครื่องทำความเย็นย้ายไปติดตั้งที่ใหม่ได้ แต่ต้องใช้ทีมถอดที่รู้งาน และมีค่าใช้จ่ายในการเดินระบบท่อน้ำยาใหม่ ถ้ารู้ตั้งแต่แรกว่าจะย้ายแน่นอนภายใน 2 ถึง 3 ปี ตู้ Reefer ที่ยกด้วยเครนได้ทั้งใบยังสะดวกกว่า`,
+      en: `We get this question almost every month. A central kitchen is expanding, needs one more freezer room, and the choice is between building a modular cold room or buying a second-hand reefer container and parking it outside. Which is the better deal?
+
+The honest answer is: **it depends on how many more years you will be at this site.** This article shows why.
+
+Every figure below is compared on the same basis: a volume close to a 20 ft container (about 28 m³), frozen storage at -20°C, operating in Thailand.
+
+## Line by line
+
+### 1. Panels and insulation
+
+| Item | Modular cold room | Reefer container |
+|---|---|---|
+| Insulation type | PIR or PU, grade selectable | PU injected into steel walls, fixed |
+| Thickness | 100 to 150 mm, chosen for the duty | About 70 to 100 mm, not adjustable |
+| Density | 40 to 42 kg/m³, consistent across panels | Moderate; second-hand units may be degraded |
+| Thermal bridging | Low — panels lock tight, no steel through-frame | High — heat travels through corner posts and door frames |
+
+The point most buyers miss is that **the insulation in a second-hand container is not in the condition it left the factory in.** A unit that spent ten years at sea has usually taken on some moisture, which is invisible from the outside but shows up as a higher power bill and cold spots you can feel on the wall.
+
+### 2. Energy
+
+This is the figure that changes the whole answer.
+
+| | Modular cold room | Reefer container |
+|---|---|---|
+| Consumption at -20°C | Baseline | **About 1.9 to 2.2 times** |
+| Monthly running cost | Baseline | About 90 to 120% higher |
+
+Put plainly: **a reefer uses roughly twice the power of a modular cold room holding the same amount of product.**
+
+The reefer figures come from operator data putting a stationary container at 3 to 5 kW per hour, or 70 to 120 kWh per day for a 20 ft unit ([Coldroom-China](https://www.coldroom-china.com/reefer-containers-power-consumption-per-hour/), [Climatight Containers](https://www.climatightcontainers.com.au/blog/reefer-container-power-consumption/)). Maritime transport research puts the power draw at 4.42 to 8.63 kW depending on set temperature ([Cold Chain SA, citing ScienceDirect](https://coldchainsa.com/reefer-containers-in-south-africa-the-complete-operators-guide/)).
+
+The modular figures are an engineering estimate from a load calculation for a room of the same size, at the TD and COP values we design to.
+
+Three things drive the gap: thinner insulation, more thermal bridging through the steel frame, and a packaged compressor that cannot be sized to the actual duty.
+
+**To get the real number for your own site,** take the unit's power rating, multiply by running hours per day, multiply by the tariff you actually pay, and compare both options on the same assumptions. The ratio will land close to the table above regardless of where the tariff sits.
+
+### 3. Daily use and hygiene
+
+| Item | Modular cold room | Reefer container |
+|---|---|---|
+| Internal surfaces | Food-grade stainless or Color Bond, tight joints | Corrugated steel with welds, rust risk |
+| Floor | Flush with the kitchen floor, easy to wash | Aluminium T-bar floor, channels throughout |
+| Trolley access | Level with the building | Needs a ramp about 1.1 m high |
+| Usable height | Specified at 2.8 to 4.5 m | Ceiling 2.20 to 2.27 m, and less in practice |
+| Power required | Designed around the building's supply | Needs 3-phase 380 to 460V |
+
+A standard 20 ft reefer measures 5.43 to 5.46 m long, 2.28 to 2.29 m wide and 2.20 to 2.27 m high, giving 26 to 28.5 m³, with an aluminium T-floor and a three-phase supply requirement ([Alconet](https://www.alconet-containers.com/?p=1017), [SeaRates](https://www.searates.com/reference/container/20-foot-refrigerated/)).
+
+**There is a trap in that height figure.** A reefer is designed so cold air rises through the T-floor channels and returns to the unit under the ceiling. That means you cannot stack to the roof — the return path has to stay clear — and you cannot block the floor channels solid either. Usable stacking height ends up well under 2.2 m, against a 3 m modular room that takes three or four full shelf levels.
+
+**The T-bar floor is what causes trouble at a GMP audit.** Thailand's Ministry of Public Health Notification No. 420 (2020) places premises, cleaning and maintenance in the first category of its requirements ([FDA Thailand GMP 420 audit manual](https://www.bsigroup.com/globalassets/localfiles/en-th/gmp-fda/-audit-manual-gmp-420.pdf)). Floor channels that pool water and cannot be properly washed, and steel walls that rust where condensation forms, are the two findings inspectors pick up fastest. We cover this in detail in our [article on cold rooms and GMP/FDA compliance](/en/knowledge/gmp-fda-coldroom/).
+
+### 4. Budget and upkeep
+
+| Item | Modular cold room | Second-hand reefer |
+|---|---|---|
+| Up-front cost | Higher | **Clearly lower** |
+| Servicing | Any competent refrigeration technician; parts readily available | Requires reefer-specialist technicians |
+| Life remaining at purchase | All of it | **Most ex-marine units are already 10 to 15 years old** |
+| Expand / relocate | Extendable; can be dismantled and rebuilt | Easy to crane away, impossible to extend |
+
+**There is something worth knowing about service life before you buy.** Reefers are typically retired from primary trade routes after 10 to 12 years of service ([CHS Container Group](https://chs-containergroup.com/us/refrigerated-shipping-container-experts-answer-common-questions/)). The steel structure may last 15 to 20 years, but the refrigeration unit often becomes unreliable past 12 to 15 years ([SOGESE](https://www.sogeseitalia.it/en/articles/insights/what-is-the-lifespan-of-a-container-so-ge-se-answers/)). Most ex-marine reefers on the second-hand market are therefore already 10 to 15 years old on the day you take delivery, and it is the machinery, not the shell, that expires first ([Bosh Boxes](https://boshboxes.store/how-long-do-refrigerated-containers-last/)).
+
+Put another way: the solid-looking steel box is not what you are buying. What you are buying is a refrigeration unit that has already spent most of its life.
+
+The servicing point rarely comes up at purchase. Reefer units are Carrier, Thermo King, Daikin or Starcool — marine equipment, not general industrial refrigeration. When one fails upcountry, finding a technician who knows the unit and has the part in hand can take a week. For a central kitchen with a full room, that costs far more than the repair.
+
+## Work out your own break-even
+
+We will not tell you which year the crossover falls in, because it depends on the price you are actually quoted and the tariff you actually pay. What we can give you is the formula.
+
+Since a reefer uses roughly twice the power, **the extra energy cost per year is approximately equal to the modular room's entire annual energy cost.** That makes the arithmetic simple.
+
+> **Break-even (years) = up-front price difference ÷ modular room's annual energy cost**
+
+How to read it:
+
+| If the price difference equals | Break-even lands around year |
+|---|---|
+| 2 years of the modular room's energy cost | 2 |
+| 3 years of the modular room's energy cost | 3 |
+| 5 years of the modular room's energy cost | 5 |
+
+**To get those two numbers:** for the price difference, ask for both options quoted on the same specification — same volume, same temperature — and subtract. For the modular room's annual energy cost, ask the designer to state the power rating and approximate running hours in the quotation, then multiply by the tariff on your own bill.
+
+After break-even the gap does not stop. It continues every year for the life of the room, and that is before the higher repair costs, the shorter remaining machinery life, and the downtime when no technician is available.
+
+That is why the first question we ask a client is not "what is your budget" but **"how many more years will this kitchen be here?"** If that number is larger than your calculated break-even, the numbers argue for modular without anyone having to sell anything. If it is smaller, the reefer is the right call — and we will say so.
+
+## Six questions that settle it
+
+| Question | This answer → modular | This answer → reefer |
+|---|---|---|
+| How many years at this site? | More than 4 | Fewer than 3 |
+| Do you need FDA or GMP approval? | Yes | No |
+| Do you already have 3-phase 380V? | No, or not worth adding | Yes |
+| How often do trolleys go in and out? | All day | Occasionally |
+| How many shelf levels do you need? | 3 or more | 1 to 2 |
+| Might you need to expand the room? | Yes | No |
+
+If most of your answers fall in the left column, modular wins clearly. If most fall in the right, do not fight it — the reefer is the correct answer for you.
+
+## In short
+
+A reefer container is not a bad thing. It is a tool built for one job: holding chilled cargo in a sealed box while it travels. At that job it is very good.
+
+The trouble starts when it is asked to do a different job — a permanent cold room with people walking in and out dozens of times a day, washed down daily, and inspected for food-safety compliance. That is not what it was designed for.
+
+Match the tool to the job and the numbers will take your side on their own.
+
+## Frequently Asked Questions
+
+**Can a reefer container pass Thai FDA or GMP inspection?**
+It is not prohibited, but it is much harder. The usual failures are the T-bar floor channels that pool water and cannot be washed properly, and steel walls that rust where condensation forms. Making it work means re-flooring and re-lining, and once you add that cost the price advantage shrinks a long way.
+
+**How much more power does a reefer use than a cold room?**
+About double. Operator data puts a stationary 20 ft reefer at 70 to 120 kWh per day, against roughly 35 to 50 kWh per day for a modular room of similar size. The main reasons are thinner insulation, more thermal bridging through the steel frame, and a packaged compressor that cannot be sized to the actual duty.
+
+**What should I check when buying a second-hand reefer?**
+Insulation condition first: press the walls for soft or bulging spots, which mean the foam has taken on water. Ask for the most recent PTI (Pre-Trip Inspection) report, confirm the unit is a model that still has parts available, and ask specifically how many technicians in your area can service it.
+
+**We have 3-phase power but it is 380V. Will a reefer work?**
+Usually yes, since reefers are built for 380 to 460V. But check that the breaker and main cable can handle the starting current. If the building has no three-phase supply at all, the cost of adding one eats a good share of the savings.
+
+**Can a modular cold room really be relocated?**
+Yes. The panels come apart and rebuild, and the refrigeration plant can be reinstalled elsewhere. But it needs a team that knows the work, and the refrigerant pipework has to be redone. If you already know you will move within two or three years, a reefer that lifts away whole on a crane is still the easier option.`
+    },
+    excerpt: {
+      th: "ครัวกลางกำลังขยาย ควรสร้างห้องเย็น Modular หรือซื้อตู้ Reefer มือสอง เทียบกันหมวดต่อหมวดตั้งแต่ฉนวน ค่าไฟต่อเดือน สุขอนามัยตามเกณฑ์ GMP ไปจนถึงอายุเครื่องทำความเย็น พร้อมสูตรคำนวณจุดคืนทุนและ 6 คำถามช่วยตัดสินใจ",
+      en: "Expanding your central kitchen: build a modular cold room or buy a second-hand reefer container? A line-by-line comparison covering insulation, power consumption, GMP hygiene compliance, and equipment lifespan, with a break-even formula and 6 deciding questions."
+    },
+    body: {
+      th: [
+        "คำถามยอดนิยมเมื่อครัวกลางกำลังจะขยายคือ ระหว่างสร้างห้องเย็น Modular กับซื้อตู้คอนเทนเนอร์ห้องเย็น (Reefer) มือสองมาตั้ง อันไหนคุ้มค่ากว่ากัน คำตอบขึ้นอยู่กับจำนวนปีที่คุณจะใช้พื้นที่นี้เป็นหลัก โดยเทียบบนฐานขนาดปริมาตรราว 28 ลบ.ม. ที่อุณหภูมิแช่แข็ง -20°C",
+        "เมื่อเทียบกันทีละด้าน ผนังและฉนวนของตู้ Reefer มือสองมักมีปัญหาความชื้นสะสมและมีสะพานความร้อนสูงจากโครงสร้างเหล็ก ขณะที่ห้องเย็น Modular ใช้แผง PIR หรือ PU เต็มความหนาแน่นและไม่มีโครงเหล็กทะลุ ส่งผลให้ตู้ Reefer กินไฟมากกว่าห้องเย็น Modular ราว 1.9 ถึง 2.2 เท่า หรือสูงกว่าประมาณ 90 ถึง 120%",
+        "ด้านการใช้งานจริงและสุขอนามัย ตู้ Reefer มีพื้นแบบ T-Bar อะลูมิเนียมที่มีร่องขังน้ำล้างยาก เสี่ยงไม่ผ่านเกณฑ์ GMP/อย. ตามประกาศกระทรวงสาธารณสุข ฉบับที่ 420 และต้องทำทางลาดสูง 1.1 เมตรเพื่อเข็นของเข้าออก รวมถึงเพดานที่ค่อนข้างเตี้ยและต้องเว้นทางลมกลับ ทำให้วางชั้นวางของได้น้อยกว่าห้องเย็น Modular ชัดเจน",
+        "ด้านงบประมาณและเครื่องจักร แม้ตู้ Reefer มือสองจะมีราคาเริ่มต้นที่ถูกกว่า แต่ตู้ปลดระวางจากการเดินเรือส่วนใหญ่อายุ 10 ถึง 15 ปีแล้ว เครื่องทำความเย็นมักใกล้หมดอายุขัย และช่างซ่อมตู้ Reefer หายากในต่างจังหวัด ต่างจากห้องเย็น Modular ที่ใช้อุปกรณ์มาตรฐานและมีอะไหล่แพร่หลาย",
+        "สูตรคำนวณจุดคืนทุนแบบง่ายคือ ส่วนต่างราคาซื้อหารด้วยค่าไฟของห้องเย็น Modular ต่อปี หากจำนวนปีที่คุณจะใช้งานพื้นที่นี้นานกว่าจุดคืนทุน ห้อง Modular จะคุ้มค่ากว่าอย่างชัดเจน แต่หากเป็นการเช่าระยะสั้นไม่เกิน 2 ถึง 3 ปีและต้องย้ายสถานที่ ตู้ Reefer ก็ยังเป็นทางเลือกที่ตอบโจทย์"
+      ],
+      en: [
+        "When expanding a central kitchen, choosing between a modular cold room and a second-hand reefer container comes down to how many years you will remain at the site. Comparing both on equal footing — roughly 28 m³ volume at -20°C frozen storage in Thailand — reveals clear differences across performance, energy, and operations.",
+        "In terms of panels and insulation, second-hand reefers often suffer from moisture ingress and extensive thermal bridging through steel corner posts. Modular cold rooms feature dense PIR or PU panels with tight joins. Consequently, a reefer consumes about 1.9 to 2.2 times more electricity, running roughly 90 to 120% higher each month.",
+        "For daily operations and hygiene, a reefer's aluminium T-bar floor channels water and makes thorough sanitising difficult, posing major hurdles under Thai FDA / GMP Notification No. 420 audits. Trolley access requires a 1.1 m ramp, and air circulation restrictions reduce actual usable stacking height compared to a 3 m modular room.",
+        "Budget-wise, while a second-hand reefer has a lower upfront cost, most ex-marine units are already 10 to 15 years old with machinery nearing end of life. Finding qualified reefer technicians and marine spare parts upcountry can lead to lengthy downtime compared to standard industrial cold room components.",
+        "A simple break-even formula is upfront price difference divided by the modular room's annual energy cost. If your operational horizon exceeds the break-even years, the modular cold room is the clear winner; if you need a temporary setup for under 3 years and value crane mobility, a reefer container remains a practical alternative."
+      ]
+    },
+    datePublishedISO: "2026-09-29",
+    dateModifiedISO: "2026-09-29"
+  },
+  {
+    id: "coldroom-troubleshooting",
+    title: {
+      th: "ห้องเย็นไม่เคยพังโดยไม่ส่งสัญญาณ: อ่านเสียง น้ำแข็ง และตัวเลขให้เป็น",
+      en: "Your Cold Room Always Warns You First: How to Read the Sounds, the Ice and the Numbers"
+    },
+    date: {
+      th: "29 ก.ย. 2569",
+      en: "September 29, 2026"
+    },
+    category: {
+      th: "การดูแลรักษา",
+      en: "Maintenance"
+    },
+    image: "article-coldroom-troubleshooting.jpg",
+    bodyMarkdown: {
+      th: `ห้องเย็นแทบไม่เคยพังแบบทันทีทันใด
+
+เกือบทุกเคสที่เราถูกเรียกเข้าไปแก้แบบฉุกเฉิน มีสัญญาณเตือนมาก่อนหน้านั้นเป็นสัปดาห์หรือเป็นเดือน เสียงที่เปลี่ยนไป น้ำแข็งที่เกาะในจุดที่ไม่เคยเกาะ อุณหภูมิที่กลับมาช้ากว่าเดิมหลังปิดประตู แค่ไม่มีใครในทีมรู้ว่าสิ่งเหล่านั้นแปลว่าอะไร
+
+บทความนี้คือการสอนให้อ่านสัญญาณพวกนั้นให้ออก
+
+## เส้นแบ่งที่ต้องเข้าใจก่อน
+
+ก่อนอ่านต่อ ขอวางเส้นให้ชัดว่าอะไรทำเองได้ และอะไรห้ามแตะ
+
+| ทำเองได้ปลอดภัย | ต้องเรียกช่างเท่านั้น |
+|---|---|
+| สังเกต ฟัง จด บันทึกอุณหภูมิ | ทุกอย่างที่เกี่ยวกับน้ำยาและแรงดัน |
+| ล้างคอยล์ร้อน (คอนเดนเซอร์) ด้านนอก | เปิดตู้ควบคุมไฟฟ้า |
+| ตรวจยางขอบประตูและบานประตู | ตรวจหรือเปลี่ยนฮีตเตอร์ละลายน้ำแข็ง |
+| ย้ายของที่วางบังทางลม | ปรับวาล์วน้ำยาหรือค่า superheat |
+| ตรวจท่อน้ำทิ้งว่าตันหรือไม่ | แก้ปัญหาคอมเพรสเซอร์ทุกชนิด |
+| ตรวจและตั้งค่าอุณหภูมิที่ตัวควบคุม | เดินสายไฟหรือเปลี่ยนอุปกรณ์ไฟฟ้า |
+
+**สามอย่างนี้ห้ามทำเด็ดขาด ไม่ว่าจะเร่งแค่ไหน**
+
+1. **ห้ามเติมน้ำยาเอง** ระบบที่น้ำยาขาดแปลว่ามีรอยรั่ว การเติมโดยไม่หารอยรั่วคือการเทเงินทิ้งและปล่อยสารทำความเย็นออกสู่บรรยากาศซ้ำๆ
+2. **ห้ามใช้ของมีคมสกัดน้ำแข็งที่คอยล์** ท่อคอยล์เป็นทองแดงผนังบาง เจาะทะลุครั้งเดียวคือน้ำยารั่วทั้งระบบ จากงานซ่อมหลักพันกลายเป็นหลักหมื่นทันที
+3. **ห้ามราดน้ำร้อนใส่คอยล์ที่มีฮีตเตอร์ไฟฟ้า** เสี่ยงไฟรั่วและไฟช็อต
+
+และข้อที่ไม่เกี่ยวกับเครื่องแต่สำคัญที่สุด: **ห้องเย็นทุกห้องต้องเปิดประตูจากด้านในได้เสมอ** ตรวจปุ่มปลดล็อกฉุกเฉินด้านในทุกเดือน และอย่าให้ใครเข้าห้องแช่แข็งคนเดียวโดยไม่มีคนรู้
+
+## อ่านตัวเลข: จด 3 อย่างทุกวัน ใช้เวลา 1 นาที
+
+คนส่วนใหญ่ดูแค่ว่าอุณหภูมิถึงที่ตั้งไว้หรือยัง ซึ่งเป็นตัวเลขที่บอกอะไรน้อยที่สุด เพราะกว่ามันจะผิดปกติ ปัญหาก็ลามไปไกลแล้ว
+
+สามตัวนี้บอกล่วงหน้าได้ดีกว่ามาก
+
+**1. อุณหภูมิที่จุดเดิม เวลาเดิม ทุกวัน**
+ไม่ใช่ดูว่า "ถึงไหม" แต่ดูว่า "เปลี่ยนไปจากเดิมไหม" ห้องที่เคยนิ่งที่ -20°C แล้วเริ่มแกว่งไป -18°C บ่อยขึ้น คือห้องที่กำลังบอกอะไรบางอย่าง
+
+**2. เวลาที่ใช้ดึงอุณหภูมิกลับหลังปิดประตู**
+จับเวลาไว้ตอนระบบยังดี สมมติ 12 นาที ถ้าวันหนึ่งกลายเป็น 25 นาที แปลว่ากำลังการทำความเย็นหายไปครึ่งหนึ่ง ทั้งที่อุณหภูมิสุดท้ายอาจยังถึงเป้าอยู่ **นี่คือสัญญาณเตือนที่มาก่อนอาการ "ห้องไม่เย็น" หลายสัปดาห์**
+
+**3. คอมเพรสเซอร์ตัดกี่ครั้งต่อชั่วโมง**
+ปกติควรเดินยาวแล้วตัดเป็นรอบสม่ำเสมอ ถ้าเริ่มตัดถี่ขึ้นเป็นนาทีสองนาทีต่อรอบ (short cycling) คือสัญญาณปัญหา ซึ่งอาจมาจากคอยล์ร้อนสกปรก น้ำยาขาด หรือค่าตั้ง differential แคบเกินไป ([Danfoss](https://www.danfoss.com/en/industries/food-and-beverage/dcs/cold-rooms/system-design-component-selection/troubleshooting-fault-diagnosis/))
+
+การจดสามตัวนี้ในสมุดเล่มเดียววันละครั้ง ทำให้เห็นแนวโน้มที่ระบบแจ้งเตือนอัตโนมัติไม่เห็น เพราะระบบเตือนต่อเมื่อเกินค่าที่ตั้งไว้แล้ว ส่วนสมุดเล่มนั้นเห็นตั้งแต่ตอนที่มันยังไม่เกิน ถ้าจะให้ดีกว่านั้น [ระบบ Monitoring](/services/monitoring/) ที่บันทึกต่อเนื่องจะเห็นรูปแบบที่คนจดวันละครั้งจับไม่ได้
+
+## อ่านเสียง
+
+ห้องเย็นที่ทำงานปกติมีเสียงประจำของมัน คนที่อยู่กับมันทุกวันจะรู้ทันทีว่าเสียงเปลี่ยน สิ่งที่ขาดคือการแปลว่าเสียงนั้นแปลว่าอะไร
+
+| เสียงที่ได้ยิน | มักเกิดจาก | ทำอะไรได้เลย |
+|---|---|---|
+| เสียงหวีด หรือครืดๆ จากพัดลมคอยล์ | ใบพัดมีน้ำแข็งเกาะ หรือแบริ่งมอเตอร์เริ่มแห้ง | ดูว่ามีน้ำแข็งติดใบพัดไหม ถ้ามี แจ้งช่างเรื่องระบบละลายน้ำแข็ง |
+| เสียงกึกก้องสั่นทั้งโครง | ขาตั้งหรือน็อตยึดคลาย แผ่นกันลมสั่น | ไล่ขันน็อตยึดชุดเครื่องและแผงกันลม |
+| เสียงคลิกแล้วเงียบ ซ้ำๆ ทุกไม่กี่นาที | คอมเพรสเซอร์ตัดถี่ (short cycling) | หยุดใช้งานหนัก ล้างคอยล์ร้อน แล้วเรียกช่าง |
+| เสียงเหมือนน้ำไหลซ่าดังผิดปกติในท่อ | น้ำยาอาจพร่อง ทำให้มีแก๊สปนในท่อของเหลว | **เรียกช่าง** ห้ามเติมน้ำยาเอง |
+| เสียงกระแทกโลหะตอนคอมฯ สตาร์ท | น้ำยาเหลวไหลกลับเข้าคอมเพรสเซอร์ | **หยุดเครื่องและเรียกช่างทันที** อาการนี้ทำให้คอมฯ พังถาวรได้ |
+| เสียงคอมฯ ดังขึ้นกว่าเดิมอย่างชัดเจน | โหลดสูงผิดปกติ มักมาจากคอยล์ร้อนตัน | ล้างคอยล์ร้อน ถ้าไม่ดีขึ้น เรียกช่าง |
+
+เสียงสองอันล่างสุดคืออันที่ต้องรีบที่สุด เสียงกระแทกโลหะตอนสตาร์ทโดยเฉพาะ อย่าปล่อยข้ามคืน
+
+## อ่านน้ำแข็ง: ตำแหน่งบอกสาเหตุ
+
+น้ำแข็งเป็นสัญญาณที่อ่านง่ายที่สุด เพราะมันบอกตำแหน่งของปัญหาให้เลย
+
+| น้ำแข็งเกาะตรงไหน | แปลว่าอะไร | ทำอะไรได้เลย |
+|---|---|---|
+| ทั่วแผงคอยล์หนาเท่าๆ กัน | ระบบละลายน้ำแข็งทำงานไม่พอ หรือความชื้นเข้าห้องมากเกิน | เช็คซีลประตูและวินัยการเปิดปิด แล้วแจ้งช่างเรื่องรอบละลายน้ำแข็ง |
+| เกาะหนาเฉพาะด้านลมเข้า อีกด้านโล่ง | ลมผ่านคอยล์ไม่ทั่ว มักเพราะของวางชิดเกินไป | ย้ายของให้ห่างคอยล์อย่างน้อย 50 ซม. |
+| เกาะที่ขอบประตูและกรอบประตู | ยางขอบประตูเสื่อม หรือประตูปิดไม่สนิท | เปลี่ยนยางขอบประตู ปรับบานพับ |
+| เกาะที่ท่อน้ำยาเส้นใหญ่นอกห้อง | อาจมีน้ำยาเหลวไหลกลับ | **เรียกช่าง** |
+| น้ำแข็งเป็นแผ่นบนพื้นห้อง | ท่อน้ำทิ้งตันหรือฮีตเตอร์ท่อน้ำทิ้งไม่ทำงาน | เช็คท่อน้ำทิ้งว่าตันไหม ถ้าท่อโล่งแต่ยังเป็น ให้เรียกช่าง |
+| น้ำแข็งเกาะผนังห้องเป็นจุดๆ | ฉนวนจุดนั้นเสื่อมหรือมีรอยรั่วของอากาศ | ทำเครื่องหมายไว้แล้วแจ้งช่างมาตรวจฉนวน |
+
+เรื่องน้ำแข็งที่คอยล์มีมุมที่ลึกกว่าแค่การบำรุงรักษา คือมันบอกว่าสินค้าของคุณกำลังเสียน้ำหนักไปเท่าไหร่ เราเขียนเรื่องนี้ไว้ละเอียดใน [บทความเรื่องความชื้นสัมพัทธ์ในห้องเย็น](/knowledge/coldroom-humidity-rh/)
+
+## 6 อาการยอดฮิต และลำดับการตรวจ
+
+### อาการ 1: ห้องไม่เย็นถึงที่ตั้งไว้ แต่เครื่องเดินอยู่
+
+ตรวจตามลำดับนี้ อย่าข้ามขั้น เพราะสามข้อแรกคือสาเหตุของเคสส่วนใหญ่และแก้เองได้:
+
+1. **คอยล์ร้อน (คอนเดนเซอร์) สกปรกไหม** ครีบอุดตันด้วยฝุ่นและคราบมันคือสาเหตุอันดับหนึ่ง ทำให้ระบายความร้อนไม่ออก แรงดันสูงขึ้น และกำลังทำความเย็นตก
+2. **พัดลมคอยล์ร้อนหมุนครบทุกตัวไหม** ตัวเดียวหยุดก็เห็นผลชัด
+3. **มีอะไรวางบังลมเข้าออกของคอยล์เย็นไหม** กล่องวางชิดคอยล์คือสาเหตุที่พบบ่อยและแก้ฟรี
+4. **ประตูปิดสนิทตลอดหรือเปล่า** ลองปิดประตูแล้วดูจากในห้องว่ามีแสงลอดไหม
+5. ถ้าครบสี่ข้อแล้วยังไม่ดีขึ้น **เรียกช่าง** เพราะที่เหลือคือน้ำยา วาล์ว และคอมเพรสเซอร์ ซึ่งไม่ใช่งานที่ทำเองได้
+
+ลำดับนี้ตรงกับแนวทางตรวจวินิจฉัยของผู้ผลิตอุปกรณ์ทำความเย็น ที่ให้เริ่มจากลมและการระบายความร้อนก่อนเสมอ แล้วค่อยไปที่ระบบน้ำยา ([Danfoss](https://www.danfoss.com/en/industries/food-and-beverage/dcs/cold-rooms/system-design-component-selection/troubleshooting-fault-diagnosis/))
+
+### อาการ 2: คอมเพรสเซอร์ตัดถี่ เดินไม่กี่นาทีก็หยุด
+
+สาเหตุที่เป็นไปได้: คอยล์ร้อนตัน, น้ำยาขาด, ค่า differential ที่ตัวควบคุมตั้งแคบเกินไป, หรือเครื่องใหญ่เกินขนาดห้อง
+
+ทำเองได้: ล้างคอยล์ร้อน และดูค่า differential ที่ตัวควบคุม ถ้าตั้งไว้แคบมาก เช่น 0.5°C ให้ปรึกษาช่างเรื่องการขยายเป็น 2 ถึง 3°C
+
+การปล่อยให้ตัดถี่ไปเรื่อยๆ ทำให้คอมเพรสเซอร์อายุสั้นลงมาก เพราะแรงกระชากตอนสตาร์ทคือช่วงที่สึกหรอที่สุด
+
+### อาการ 3: น้ำหยดหรือน้ำนองในห้อง
+
+ไล่จากง่ายไปยาก: ท่อน้ำทิ้งตัน (พบบ่อยที่สุด) → ถาดรองน้ำเอียงผิดหรือมีตะกอน → ฮีตเตอร์ท่อน้ำทิ้งไม่ทำงานทำให้น้ำแข็งตันในท่อ → ความชื้นเข้าห้องมากเกินจนน้ำกลั่นตัว
+
+ท่อน้ำทิ้งตันเป็นงานที่ทำเองได้ ส่วนฮีตเตอร์ท่อน้ำทิ้งเป็นอุปกรณ์ไฟฟ้า ต้องให้ช่างดู
+
+### อาการ 4: ค่าไฟขึ้นผิดปกติ ทั้งที่ใช้งานเท่าเดิม
+
+ค่าไฟคือเครื่องมือวินิจฉัยที่คนไม่ค่อยใช้ ทั้งที่มันบอกได้ก่อนอาการอื่น
+
+เรียงตามความน่าจะเป็น: คอยล์ร้อนสกปรก → ยางขอบประตูเสื่อมทำให้อากาศร้อนไหลเข้าตลอดเวลา → น้ำแข็งเกาะคอยล์เย็นทำให้แลกเปลี่ยนความร้อนได้น้อยลง → ระบบละลายน้ำแข็งทำงานถี่เกินจำเป็น → ฉนวนผนังเสื่อม
+
+สามข้อแรกแก้เองได้ทั้งหมด และมักได้ค่าไฟกลับมาทันทีในบิลถัดไป
+
+### อาการ 5: อุณหภูมิแกว่งขึ้นลงผิดปกติ
+
+ตรวจก่อนว่า **เซ็นเซอร์ติดตั้งอยู่ตรงไหน** เซ็นเซอร์ที่อยู่ใกล้ประตู ใกล้ลมออกจากคอยล์ หรือโดนของวางทับ จะอ่านค่าเพี้ยนและสั่งให้ระบบทำงานผิดจังหวะ
+
+ถ้าตำแหน่งเซ็นเซอร์ปกติดี แต่ยังแกว่ง อาจเป็นเรื่องวาล์วน้ำยาทำงานไม่นิ่ง ซึ่งต้องให้ช่างดู
+
+### อาการ 6: ของบางจุดในห้องไม่เย็นเท่าจุดอื่น
+
+เกือบทุกครั้งเป็นเรื่องลมไม่ทั่ว ไม่ใช่เครื่องเสีย
+
+ตรวจว่ามีของวางบังทางลมไหม วางชิดผนังหรือชิดคอยล์เกินไปหรือเปล่า วางสูงจนชนเพดานปิดทางลมกลับไหม และมีช่องว่างระหว่างพาเลทให้ลมลอดได้หรือไม่
+
+จัดของใหม่มักแก้ได้เลยโดยไม่เสียเงิน
+
+## เช็ค 10 นาที ที่ควรทำทุกสัปดาห์
+
+1. ยืนฟังเสียงในห้อง 1 นาที เทียบกับที่เคยได้ยิน
+2. ดูคอยล์เย็นว่ามีน้ำแข็งเกาะผิดปกติไหม และเกาะตรงไหน
+3. ดูคอยล์ร้อนว่าครีบอุดตันไหม พัดลมหมุนครบไหม
+4. ปิดประตูแล้วดูจากในห้องว่ามีแสงลอดตรงไหน
+5. กดยางขอบประตูดูว่ายังยืดหยุ่นหรือแข็งกรอบแล้ว
+6. ดูว่ามีของวางบังลมเข้าออกคอยล์หรือไม่
+7. เช็คว่าท่อน้ำทิ้งไหลปกติ ไม่มีน้ำขัง
+8. อ่านและจดอุณหภูมิจากตัวควบคุม
+9. กดทดสอบปุ่มปลดล็อกประตูจากด้านใน
+10. จดสิ่งผิดปกติลงสมุดพร้อมวันที่
+
+ข้อ 10 สำคัญกว่าที่คิด เพราะเวลาช่างมาถึง สมุดที่บันทึกว่าอาการเริ่มเมื่อไหร่และเปลี่ยนไปอย่างไร ช่วยให้หาสาเหตุเจอเร็วขึ้นมาก และลดค่าแรงที่เสียไปกับการไล่หาสาเหตุ
+
+## เมื่อไหร่ต้องหยุดใช้งานทันที
+
+- ได้ยินเสียงกระแทกโลหะตอนคอมเพรสเซอร์สตาร์ท
+- มีกลิ่นไหม้หรือกลิ่นฉุนผิดปกติ
+- มีควันหรือรอยไหม้ที่ตู้ควบคุมไฟฟ้า
+- เบรกเกอร์ตัดซ้ำๆ หลังรีเซ็ต
+- มีน้ำนองถึงอุปกรณ์ไฟฟ้า
+
+ห้าข้อนี้ไม่ใช่เรื่องที่รอถึงเช้าได้ และไม่ใช่เรื่องที่ลองเปิดใหม่ดูอีกที
+
+## สรุป
+
+เครื่องทำความเย็นพูดภาษาหนึ่งอยู่ตลอดเวลา ผ่านเสียง ผ่านน้ำแข็ง ผ่านตัวเลขบนหน้าจอ และผ่านบิลค่าไฟ
+
+ทีมที่อ่านภาษานี้ออกจะเจอปัญหาตอนที่มันยังเป็นงานซ่อมหลักพัน ส่วนทีมที่อ่านไม่ออกจะเจอตอนที่มันเป็นของเสียหายเต็มห้องกับงานซ่อมหลักแสน
+
+ความต่างอยู่ที่สิบนาทีต่อสัปดาห์ กับสมุดหนึ่งเล่ม
+
+## คำถามที่พบบ่อย
+
+**ล้างคอยล์ร้อนเองได้ไหม ต้องใช้อะไร**
+ได้ และควรทำ ใช้แปรงขนอ่อนปัดฝุ่นตามแนวครีบ ห้ามปัดขวางเพราะครีบจะพับ ถ้ามีคราบมันใช้น้ำยาล้างคอยล์ที่มีขายทั่วไป ฉีดล้างด้วยน้ำแรงดันต่ำได้ แต่ต้องปิดเบรกเกอร์ก่อนทุกครั้ง และอย่าฉีดน้ำใส่มอเตอร์พัดลมหรือกล่องไฟ
+
+**คอยล์เป็นน้ำแข็ง ใช้ไดร์เป่าผมหรือน้ำร้อนละลายได้ไหม**
+น้ำอุ่นราดได้เฉพาะคอยล์ที่ไม่มีฮีตเตอร์ไฟฟ้าและต้องปิดเบรกเกอร์ก่อน แต่วิธีที่ปลอดภัยกว่าคือปิดระบบทำความเย็นแล้วเปิดพัดลมอย่างเดียวให้ละลายเองตามธรรมชาติ สิ่งที่ห้ามเด็ดขาดคือใช้ไขควง ค้อน หรือของมีคมสกัด เพราะท่อทองแดงบางมาก
+
+**ทำไมห้องเย็นถึงต้องละลายน้ำแข็ง ในเมื่อเราอยากให้มันเย็น**
+เพราะน้ำแข็งที่เกาะคอยล์ทำหน้าที่เหมือนผ้าห่ม ขวางการแลกเปลี่ยนความร้อน ยิ่งเกาะหนา คอยล์ยิ่งทำความเย็นได้น้อยลงและกินไฟมากขึ้น การละลายน้ำแข็งเป็นรอบจึงไม่ใช่การเสียพลังงานเปล่า แต่เป็นการรักษาประสิทธิภาพ สิ่งที่ต้องตั้งให้พอดีคือความถี่และระยะเวลา ถี่เกินไปคืออัดความร้อนเข้าห้อง น้อยเกินไปคือคอยล์ตัน
+
+**ควรเรียกช่างมาตรวจบ่อยแค่ไหน**
+สำหรับห้องเย็นที่ใช้งานทุกวันในเชิงพาณิชย์ การตรวจใหญ่ปีละ 2 ครั้งเป็นเกณฑ์ที่เหมาะสม ร่วมกับการเช็ค 10 นาทีต่อสัปดาห์โดยทีมงานเอง ความถี่ที่เหมาะสมขึ้นกับสภาพแวดล้อมและปริมาณการใช้งานจริง
+
+**ห้องเย็นอุณหภูมิขึ้นตอนกลางคืนทุกวัน ผิดปกติไหม**
+ถ้าขึ้นช่วงสั้นๆ แล้วกลับลงเอง เป็นรอบละลายน้ำแข็งตามปกติ ลองเทียบเวลาที่อุณหภูมิขึ้นกับตารางละลายน้ำแข็งที่ตั้งไว้ ถ้าตรงกันคือปกติ ถ้าขึ้นแล้วไม่ลงภายในเวลาที่ควร หรือขึ้นในเวลาที่ไม่มีรอบละลายน้ำแข็ง อันนั้นต้องตรวจ`,
+      en: `Cold rooms almost never fail suddenly.
+
+In nearly every emergency call-out we attend, the warning signs had been there for weeks or months. A sound that changed. Ice forming somewhere it never used to. Temperature taking longer to recover after the door closed. Nobody on the team knew what any of it meant.
+
+This article teaches you to read those signals.
+
+## The line you need to understand first
+
+Before anything else, here is what is safe to do yourself and what is not.
+
+| Safe to do yourself | Technician only |
+|---|---|
+| Observe, listen, log temperatures | Anything involving refrigerant or pressure |
+| Clean the condenser coil (outside) | Opening the electrical control panel |
+| Check door gaskets and door alignment | Inspecting or replacing defrost heaters |
+| Move product blocking airflow | Adjusting expansion valves or superheat |
+| Check whether the drain line is blocked | Any compressor problem |
+| Read and set the controller temperature | Any electrical wiring or component work |
+
+**Three things you must never do, however urgent it feels**
+
+1. **Never add refrigerant yourself.** A system low on refrigerant has a leak. Topping it up without finding the leak wastes money and releases refrigerant to atmosphere over and over.
+2. **Never chip ice off a coil with anything sharp.** Coil tubing is thin-walled copper. One puncture means the entire charge is lost, turning a small repair into a large one.
+3. **Never pour hot water over a coil fitted with electric heaters.** It risks electrical leakage and shock.
+
+And one that is not about the equipment but matters most: **every cold room must open from the inside, always.** Test the internal release monthly, and never let anyone enter a freezer alone without someone knowing.
+
+## Read the numbers: log three things daily, one minute
+
+Most people check only whether the room has reached its set point, which is the least informative number available. By the time it is wrong, the problem has already spread.
+
+These three warn you far earlier.
+
+**1. Temperature at the same spot, same time, every day**
+Not "did it get there" but "has it changed." A room that used to sit steady at -20°C and now drifts to -18°C more often is telling you something.
+
+**2. How long it takes to recover after the door closes**
+Time it while the system is healthy — say 12 minutes. If it becomes 25 minutes, you have lost half your cooling capacity even though the final temperature may still be reached. **This warning arrives weeks before anyone says "the room isn't cold."**
+
+**3. How many times per hour the compressor cuts out**
+It should run for a while and cycle at steady intervals. If it starts cutting out every minute or two — short cycling — that is a fault signal, which can come from a dirty condenser, low refrigerant, or a differential set too tight ([Danfoss](https://www.danfoss.com/en/industries/food-and-beverage/dcs/cold-rooms/system-design-component-selection/troubleshooting-fault-diagnosis/)).
+
+Logging these three in one notebook, once a day, reveals trends an alarm system cannot see — because an alarm only fires once a limit is crossed, while the notebook shows the drift before it gets there. Better still, a [monitoring system](/en/services/monitoring/) recording continuously catches patterns a once-a-day reading will always miss.
+
+## Read the sounds
+
+A healthy cold room has its own sound, and people who work around it daily know instantly when that changes. What they lack is the translation.
+
+| What you hear | Usually means | What you can do now |
+|---|---|---|
+| Whining or scraping from the evaporator fan | Ice on the fan blade, or a drying motor bearing | Look for ice on the blade; if present, raise the defrost system with your technician |
+| Deep rattling through the whole frame | Loose mounting bolts or vibrating panels | Go round and tighten the unit mounts and baffles |
+| Click, then silence, repeating every few minutes | Compressor short cycling | Reduce load, clean the condenser, call a technician |
+| Unusually loud rushing or gurgling in the pipework | Possible low charge, gas in the liquid line | **Call a technician.** Do not add refrigerant |
+| Metallic knocking when the compressor starts | Liquid refrigerant returning to the compressor | **Stop the unit and call immediately.** This destroys compressors |
+| Compressor clearly louder than it used to be | Abnormally high load, usually a blocked condenser | Clean the condenser; if no improvement, call a technician |
+
+The bottom two are the urgent ones. Metallic knocking on start-up in particular should not be left overnight.
+
+## Read the ice: location tells you the cause
+
+Ice is the easiest signal to read, because it points at the problem.
+
+| Where the ice is | What it means | What you can do now |
+|---|---|---|
+| Evenly across the whole coil | Defrost not keeping up, or too much moisture entering | Check door seals and door discipline, then raise the defrost cycle with your technician |
+| Thick on the air-entering face only | Air is not reaching the whole coil, usually product stacked too close | Move product at least 50 cm clear of the coil |
+| Around the door edges and frame | Worn gasket or a door not closing square | Replace the gasket, adjust the hinges |
+| On the large refrigerant line outside the room | Possible liquid floodback | **Call a technician** |
+| Sheet ice on the room floor | Blocked drain line, or drain heater not working | Check the drain; if clear and it persists, call a technician |
+| Patches on the room walls | Degraded insulation or an air leak at that point | Mark it and have the insulation inspected |
+
+Ice on the coil means more than a maintenance issue — it tells you how much weight your product is losing. We cover that in detail in our [article on relative humidity in cold rooms](/en/knowledge/coldroom-humidity-rh/).
+
+## Six common faults and the order to check them
+
+### Fault 1: The room will not reach set point, but the plant is running
+
+Check in this order and do not skip ahead — the first three account for most cases and you can fix them yourself:
+
+1. **Is the condenser coil dirty?** Fins clogged with dust and grease are the number one cause. Heat cannot be rejected, pressures rise, capacity falls.
+2. **Are all the condenser fans turning?** One stopped fan is enough to show up.
+3. **Is anything blocking airflow into or out of the evaporator?** Boxes stacked against the coil are common and free to fix.
+4. **Is the door sealing fully?** Close it and look from inside for daylight.
+5. If all four are clear and nothing improves, **call a technician.** What remains is refrigerant, valves and the compressor — not DIY work.
+
+This order matches equipment manufacturers' diagnostic guidance, which always starts with airflow and heat rejection before moving to the refrigerant circuit ([Danfoss](https://www.danfoss.com/en/industries/food-and-beverage/dcs/cold-rooms/system-design-component-selection/troubleshooting-fault-diagnosis/)).
+
+### Fault 2: Compressor short cycling
+
+Possible causes: blocked condenser, low refrigerant charge, a controller differential set too tight, or plant oversized for the room.
+
+What you can do: clean the condenser and look at the differential setting. If it is very tight — 0.5°C, say — discuss widening it to 2 or 3°C with your technician.
+
+Leaving short cycling unaddressed shortens compressor life significantly, since the start-up surge is where most wear happens.
+
+### Fault 3: Water dripping or pooling inside
+
+Work from easy to hard: blocked drain line (most common) → drain pan wrongly pitched or full of sediment → drain heater not working, so the line ices up → so much moisture entering that it condenses out.
+
+Clearing the drain is a job you can do. The drain heater is electrical and belongs to a technician.
+
+### Fault 4: Electricity bill up with no change in use
+
+The power bill is an underused diagnostic tool, and it often moves before anything else does.
+
+In order of likelihood: dirty condenser → worn door gaskets letting warm air in continuously → ice on the evaporator reducing heat transfer → defrost running more often than needed → degraded wall insulation.
+
+The first three are all fixable in-house, and usually show up as savings on the very next bill.
+
+### Fault 5: Temperature swinging abnormally
+
+First check **where the sensor is installed.** A sensor near the door, in the coil discharge airstream, or buried behind product will read wrongly and make the system cycle at the wrong moments.
+
+If sensor placement is sound and it still swings, the expansion valve may be hunting, which is technician work.
+
+### Fault 6: Some spots in the room are warmer than others
+
+Almost always airflow, not a fault in the plant.
+
+Check whether product is blocking the air path, stacked too close to walls or the coil, piled to the ceiling so the return path is closed, or packed without gaps between pallets for air to pass.
+
+Restacking usually fixes it at no cost.
+
+## The 10-minute weekly check
+
+1. Stand in the room and listen for a minute; compare with what you normally hear
+2. Look at the evaporator for unusual ice, and note where it is
+3. Look at the condenser: fins clogged? all fans turning?
+4. Close the door and look from inside for daylight
+5. Press the door gasket — still flexible, or gone hard?
+6. Check nothing is blocking airflow at the coil
+7. Confirm the drain runs clear with no standing water
+8. Read and log the controller temperature
+9. Test the internal door release
+10. Write anything unusual in the notebook with the date
+
+Item 10 matters more than it looks. When the technician arrives, a log showing when symptoms started and how they changed cuts diagnosis time substantially — and diagnosis time is what you pay for.
+
+## When to stop immediately
+
+- Metallic knocking when the compressor starts
+- Burning or unusual sharp smells
+- Smoke or scorch marks at the control panel
+- A breaker that trips repeatedly after reset
+- Water reaching electrical equipment
+
+None of these wait until morning, and none of them should be met by switching it back on to see what happens.
+
+## In short
+
+Refrigeration plant is speaking constantly — through sound, through ice, through the numbers on the display, through the power bill.
+
+Teams that read the language catch problems while they are still a small repair. Teams that do not catch them when the room is full of ruined product and the repair is large.
+
+The difference is ten minutes a week and one notebook.
+
+## Frequently Asked Questions
+
+**Can I clean the condenser myself, and with what?**
+Yes, and you should. Use a soft brush along the fins, never across them, or they will bend over. For grease, a standard coil cleaner works. Low-pressure water is fine, but always switch the breaker off first, and never spray the fan motors or electrical boxes.
+
+**The coil is iced up. Can I use a hair dryer or hot water?**
+Warm water is acceptable only on coils with no electric heaters, and only with the breaker off. The safer method is to switch off cooling and run the fans alone to let it melt naturally. What you must never do is chip it off with a screwdriver, hammer or anything sharp — the copper tubing is very thin.
+
+**Why does a cold room need to defrost at all if we want it cold?**
+Because ice on the coil acts like a blanket, blocking heat transfer. The thicker it gets, the less cooling the coil delivers and the more power it draws. Defrost cycles are not wasted energy; they protect capacity. What has to be tuned is frequency and duration — too often pushes heat into the room, too seldom blocks the coil.
+
+**How often should a technician inspect it?**
+For a commercial cold room in daily use, two full service visits a year is a reasonable baseline, alongside the weekly 10-minute check by your own team. The right interval depends on your environment and how hard the room is worked.
+
+**The temperature rises every night. Is that a fault?**
+If it rises briefly and comes back down on its own, that is a normal defrost cycle. Compare the time of the rise against your programmed defrost schedule. If they match, it is normal. If it rises and does not recover in the expected time, or rises when no defrost is scheduled, that needs checking.`
+    },
+    excerpt: {
+      th: "ห้องเย็นแทบไม่เคยพังทันทีทันใด แต่มีสัญญาณเตือนล่วงหน้าเสมอ คู่มืออ่านเสียงผิดปกติ ตำแหน่งน้ำแข็งเกาะ และตัวเลข 3 ตัวที่ควรจดทุกวัน พร้อมลำดับตรวจเช็ค 6 อาการยอดฮิต และวิธีเช็ค 10 นาทีประจำสัปดาห์",
+      en: "Cold rooms almost never fail suddenly — the warning signs arrive weeks ahead. A practical guide to reading abnormal sounds, ice locations, and 3 daily numbers, plus troubleshooting steps for 6 common faults and a 10-minute weekly check."
+    },
+    body: {
+      th: [
+        "ห้องเย็นแทบไม่เคยพังแบบทันทีทันใด เกือบทุกครั้งที่เกิดเหตุฉุกเฉินมักมีสัญญาณเตือนล่วงหน้าเป็นสัปดาห์ ไม่ว่าจะเป็นเสียงการทำงานที่เปลี่ยนไป น้ำแข็งที่เกาะในจุดผิดปกติ หรืออุณหภูมิที่ใช้เวลานานขึ้นในการดึงกลับหลังปิดประตู การเรียนรู้วิธีสังเกตสัญญาณเตือนเหล่านี้ช่วยให้แก้ไขปัญหาได้ตั้งแต่เนิ่นๆ",
+        "สิ่งสำคัญที่สุดคือการแยกแยะระหว่างสิ่งที่ทีมงานทำเองได้ปลอดภัย เช่น การล้างคอยล์ร้อนด้านนอก การตรวจยางขอบประตู และการจดบันทึกอุณหภูมิ กับสิ่งที่ต้องเรียกช่างผู้เชี่ยวชาญเท่านั้น โดยมีข้อห้ามเด็ดขาดสามประการคือ ห้ามเติมน้ำยาเองโดยไม่หารอยรั่ว ห้ามใช้ของมีคมสกัดน้ำแข็งที่คอยล์ทองแดง และห้ามราดน้ำร้อนใส่คอยล์ที่มีฮีตเตอร์ไฟฟ้า",
+        "การจดบันทึกตัวเลขเพียง 3 อย่างทุกวัน ได้แก่ อุณหภูมิที่จุดเดิมและเวลาเดิม เวลาที่ใช้ดึงอุณหภูมิกลับหลังปิดประตู และความถี่ในการตัดต่อของคอมเพรสเซอร์ จะช่วยให้เห็นแนวโน้มความผิดปกติก่อนที่ระบบแจ้งเตือนจะดังขึ้นหลายสัปดาห์",
+        "นอกจากนี้ การฟังเสียงเครื่องจักรและการอ่านตำแหน่งที่เกิดน้ำแข็งสามารถชี้จุดต้นตอของปัญหาได้อย่างแม่นยำ เช่น น้ำแข็งที่เกาะหนาเฉพาะด้านลมเข้ามักเกิดจากของวางขวางทางลม หรือน้ำแข็งที่ขอบประตูแสดงถึงยางซีลที่เสื่อมสภาพ",
+        "การสละเวลาทำเช็คลิสต์ 10 นาทีทุกสัปดาห์ พร้อมจดบันทึกสิ่งผิดปกติลงสมุด จะช่วยให้ช่างวินิจฉัยและซ่อมแซมได้ตรงจุด ประหยัดค่าใช้จ่าย และป้องกันความเสียหายร้ายแรงต่อสินค้าในห้องเย็นได้อย่างมีประสิทธิภาพ"
+      ],
+      en: [
+        "Cold rooms almost never fail without warning. In nearly every emergency breakdown, symptoms such as altered operating sounds, unexpected ice formation, or slower temperature recovery after door closing were present for weeks beforehand. Learning to identify these early indicators prevents minor issues from escalating into catastrophic failures.",
+        "Operational teams must clearly distinguish between safe in-house tasks — such as cleaning condenser coils, checking door gaskets, and logging temperatures — and work requiring a qualified refrigeration technician. Crucially, never add refrigerant without leak detection, never chip ice with sharp tools, and never pour hot water onto coils with electric heaters.",
+        "Logging three simple numbers daily takes only a minute but provides unmatched predictive insight: temperature at the same location and time, pull-down recovery time after door openings, and compressor cycling frequency. These observations reveal declining capacity long before a room temperature alarm triggers.",
+        "Listening to abnormal sounds and observing the exact location of ice build-up points directly to root causes. For example, ice isolated to the coil face indicates blocked airflow from overstacked pallets, while frost around door perimeters signals deteriorated gaskets.",
+        "Carrying out a 10-minute check each week and keeping an operating logbook allows service engineers to diagnose faults quickly, minimising billable investigation hours and eliminating the risk of sudden product loss."
+      ]
+    },
+    datePublishedISO: "2026-09-29",
+    dateModifiedISO: "2026-09-29"
   }
 ];
 
@@ -2888,7 +3570,9 @@ export const articleRelations = {
   "gmp-fda-coldroom":       { services: ["coldroom", "monitoring"],articles: ["rg4-license", "preventive-maintenance", "coldroom-checklist"] },
   "preventive-maintenance": { services: ["monitoring", "coldroom"],articles: ["gmp-fda-coldroom", "power-3phase", "coldroom-checklist"] },
   "central-kitchen-cold-chain": { services: ["coldroom", "monitoring"], articles: ["coldroom-checklist", "coldroom-types", "gmp-fda-coldroom"] },
-  "coldroom-humidity-rh":   { services: ["coldroom", "monitoring"], articles: ["coldroom-checklist", "coldroom-types", "preventive-maintenance"] }
+  "coldroom-humidity-rh":   { services: ["coldroom", "monitoring"], articles: ["coldroom-checklist", "coldroom-types", "preventive-maintenance"] },
+  "coldroom-vs-reefer":     { services: ["coldroom"],              articles: ["central-kitchen-cold-chain", "gmp-fda-coldroom", "coldroom-types"] },
+  "coldroom-troubleshooting": { services: ["coldroom", "monitoring"], articles: ["preventive-maintenance", "coldroom-humidity-rh", "coldroom-checklist"] }
 };
 
 // บริการไหน ควรโชว์บทความอะไรท้ายหน้า

@@ -25,6 +25,8 @@ THERMO ให้บริการห้องเย็น ห้องแช่
 - [PM ระบบทำความเย็น — ช่างที่มาดูแล ควรตรวจอะไรบ้าง](https://www.thermothailand.com/knowledge/preventive-maintenance/)
 - [ห้องเย็นสำหรับครัวกลางและ Catering: ออกแบบ Cold Chain ให้ล้อไปกับ Flow การทำงาน (ฉบับวิศวกร)](https://www.thermothailand.com/knowledge/central-kitchen-cold-chain/)
 - [ความชื้นสัมพัทธ์ในห้องเย็น: ตัวแปรที่กำหนดน้ำหนักและคุณภาพสินค้า](https://www.thermothailand.com/knowledge/coldroom-humidity-rh/)
+- [ห้องเย็น Modular vs ตู้ Reefer: เทียบกันทีละบรรทัด ก่อนเซ็นใบสั่งซื้อ](https://www.thermothailand.com/knowledge/coldroom-vs-reefer/)
+- [ห้องเย็นไม่เคยพังโดยไม่ส่งสัญญาณ: อ่านเสียง น้ำแข็ง และตัวเลขให้เป็น](https://www.thermothailand.com/knowledge/coldroom-troubleshooting/)
 
 ## ติดต่อ
 - ที่อยู่: 280 ซอยอ่อนนุช 17 แยก 16 แขวงสวนหลวง เขตสวนหลวง กรุงเทพมหานคร 10250

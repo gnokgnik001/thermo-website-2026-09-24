@@ -287,7 +287,7 @@ export function ServiceDetail({
             {relatedArticles.map((art: any) => (
               <a
                 key={art.id}
-                href={`/knowledge/${art.id}`}
+                href={`/knowledge/${art.id}/`}
                 onClick={(e) => {
                   e.preventDefault();
                   onNavigate('article', art.id);
